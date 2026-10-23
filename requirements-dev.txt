@@ -1,0 +1,5 @@
+# Development only; none of this ships in the plugin (MO2 brings its own Python 3.12 and PyQt6 6.7.1).
+PyQt6==6.7.1
+mobase-stubs
+pytest
+pytest-qt

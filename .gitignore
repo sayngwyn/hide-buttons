@@ -1,0 +1,10 @@
+test-env/
+results/
+logs/
+dist/
+__pycache__/
+*.pyc
+*.7z
+.venv/
+.pytest_cache/
+.pyright/

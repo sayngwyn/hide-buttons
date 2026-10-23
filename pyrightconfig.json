@@ -1,0 +1,8 @@
+{
+  "include": ["src", "scripts"],
+  "pythonVersion": "3.12",
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none"
+}
