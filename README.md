@@ -81,11 +81,9 @@ Open an issue here, post in **Bugs** on the [Nexus page](https://www.nexusmods.c
 
 ## More by sayngwyn
 
-- **[Creations Browser](https://www.nexusmods.com/site/mods/2483)**: Browse Creations, download the free ones. ([source](https://github.com/sayngwyn/creations-browser))
-- **[Modlist Companion](https://www.nexusmods.com/site/mods/2491)**: Remembers every FOMOD choice you made in MO2. ([source](https://github.com/sayngwyn/modlist-companion))
-- **[Sayngwyn Theme](https://www.nexusmods.com/site/mods/2487)**: My personal dark theme for MO2. ([source](https://github.com/sayngwyn/sayngwyn-theme))
+[![All my mods on Nexus, every game](https://sayngwyn.com/img/mods/button-all-mods-v1.png)](https://www.nexusmods.com/profile/sayngwyn/mods)
 
-All my mods: [Nexus](https://www.nexusmods.com/profile/sayngwyn/mods) · [Website](https://sayngwyn.com/projects)
+Also on [my website](https://sayngwyn.com/projects).
 
 ---
 
