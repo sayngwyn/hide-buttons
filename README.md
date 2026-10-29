@@ -77,7 +77,7 @@ Dev checks (nothing here ships in the plugin): `python -m venv .venv`, then `.ve
 
 ## Report a problem
 
-Open an issue here, post in **Bugs** on the [Nexus page](https://www.nexusmods.com/site/mods/1619), or find me on [Discord](https://discord.gg/QZHymBYMxP). Please include your MO2 version and what you saw.
+Open an issue here, post in **Bugs** on the [Nexus page](https://www.nexusmods.com/site/mods/1619), or find me on [Discord](https://discord.com/invite/sayngwyn). Please include your MO2 version and what you saw.
 
 ## More by sayngwyn
 
