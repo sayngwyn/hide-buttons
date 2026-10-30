@@ -81,7 +81,7 @@ Open an issue here, post in **Bugs** on the [Nexus page](https://www.nexusmods.c
 
 ## More by sayngwyn
 
-[![All my mods on Nexus, every game](https://sayngwyn.com/img/mods/button-all-mods-v1.png)](https://www.nexusmods.com/profile/sayngwyn/mods)
+[![All my mods on Nexus, every game](https://sayngwyn.com/img/mods/button-all-mods-v2.png)](https://www.nexusmods.com/profile/sayngwyn/mods)
 
 Also on [my website](https://sayngwyn.com/projects).
 
