@@ -2,7 +2,7 @@
 <img alt="Hide Buttons, a Mod Organizer 2 plugin" src="docs/header.png">
 </p>
 
-Hide the MO2 buttons you never use. Three editions, every option adjustable in MO2's own settings.
+Hide the MO2 buttons you never use, or shouldn't press. Three editions, every option adjustable in MO2's own settings.
 
 <p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/divider.png">
@@ -84,6 +84,10 @@ Open an issue here, post in **Bugs** on the [Nexus page](https://www.nexusmods.c
 [![All my mods on Nexus, every game](https://sayngwyn.com/img/mods/button-all-mods-v2.png)](https://www.nexusmods.com/profile/sayngwyn/mods)
 
 Also on [my website](https://sayngwyn.com/projects).
+
+## Credits
+
+- **The Mod Organizer 2 team** for Mod Organizer 2 and the plugin interface this is built on.
 
 ---
 
