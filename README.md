@@ -77,7 +77,15 @@ Dev checks (nothing here ships in the plugin): `python -m venv .venv`, then `.ve
 
 ## Report a problem
 
-Open an issue here, post in **Bugs** on the [Nexus page](https://www.nexusmods.com/site/mods/1619), or find me on [Discord](https://discord.com/invite/sayngwyn). Please include your MO2 version and what you saw.
+**Found a bug?** Post on the [Nexus page's](https://www.nexusmods.com/site/mods/1619) **Bugs** tab with your MO2 version, your edition, what you saw, and MO2's log. I need it for every report, because it shows what the plugin actually did:
+
+`logs\mo_interface.log`, in your MO2 folder
+
+Send it before you start MO2 again, because each launch replaces it. If MO2 crashed, the same log is what I need.
+
+Reports without the log are closed after 14 days. Post it later and I'll reopen the report.
+
+The log is long, so link a paste site or bring it to [Discord](https://discord.com/invite/sayngwyn). It can show your Windows username, so use a private report on Nexus if you'd rather.
 
 ## More by sayngwyn
 
